@@ -1,2 +1,3 @@
 # intro2ml
-intro2ml project
+
+introduction of different ML algorithms
